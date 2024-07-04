@@ -52,3 +52,6 @@ Features:
   4.Implements efficient deep learning techniques to capture complex user-item interactions.
 
   5.Provides personalized movie recommendations for users based on their preferences through enhanced neural network modeling.
+
+# AUTHOR
+[Haritha K](https://github.com/Haritha3011)
